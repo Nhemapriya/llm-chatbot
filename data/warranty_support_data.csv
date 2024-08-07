@@ -1,0 +1,11 @@
+model_class,manufacturer,model_id,end_of_life_date,end_of_sale_date,end_of_support_date,end_of_extended_support_date
+IP Switch,Cisco,Cisco Catalyst 6800 Series Switches C6832-X-LE,1/9/24,12/6/26,10/14/30,10/1/32
+IP Switch,Cisco,Cisco Catalyst 6800 Series Switches C6880-X,11/11/24,11/1/28,2/14/28,3/2/32
+IP Switch,Cisco,Cisco Catalyst 6800 Series Switches C6880-X-LE,5/12/24,12/28/28,5/17/28,2/26/32
+IP Switch,Cisco,Cisco Catalyst 9200 Series Switches 9200-24T-E,7/17/23,2/4/28,12/2/28,1/21/31
+IP Switch,Cisco,Cisco Catalyst 9200 Series Switches 9200-48P,11/4/23,10/22/26,7/4/28,5/20/33
+IP Switch,Cisco,Cisco Catalyst 9200 Series Switches C9200-48P-A,10/25/25,8/6/27,2/12/28,5/21/31
+IP Switch,Cisco,Cisco Catalyst 9300 Series Switches C9300-48U-E,4/24/24,12/25/28,12/20/29,6/24/31
+IP Switch,Cisco,Cisco Nexus 9300-FX3 Series N9K-C93180YC-FX3,7/23/24,1/26/28,5/3/28,6/13/32
+IP Switch,Aruba,HPE 2930M Series 2930M 48G,3/27/25,9/3/26,2/22/29,8/28/31
+IP Switch,HPE,HPE 2930M Series 2930M 48G,4/26/23,7/1/28,12/12/28,2/17/32
